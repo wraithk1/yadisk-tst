@@ -1,0 +1,10 @@
+{
+  "CLIENT_ID": "...",
+  "DEBUG_TOKEN": "...",
+  "API": {
+    "DISK_INFO": "https://cloud-api.yandex.net/v1/disk",
+    "ALL_FILES": "https://cloud-api.yandex.net/v1/disk/resources/files", 
+    "UPLOAD": "https://cloud-api.yandex.net:443/v1/disk/resources/upload?path=",
+    "DELETE": "https://cloud-api.yandex.net:443/v1/disk/resources?path="
+  }
+}
